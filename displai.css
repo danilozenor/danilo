@@ -1,0 +1,39 @@
+ .parent
+ {
+    display: flex;
+    flex-wrap: wrap;
+   width: auto;
+    border: none;
+    overflow: hidden;
+    list-style: none;
+    background-color: hotpink;
+ }
+
+ div
+ {
+    text-align: center;
+    border: 2px solid;
+    color: darkgoldenrod;
+    width: 300px;
+    display: flexbox;
+    color: blue;
+    background-color: aquamarine;
+    float: left;
+ }
+ body
+ {
+    background-color:hotpink;
+ }
+ .exem
+{
+    width: 450px;
+    height: 450px;
+    margin: 0 auto;
+    border: dotted 5px;
+}
+
+img
+{
+   width: 400px;
+   height: 400px;
+}
